@@ -6,6 +6,8 @@
 
 body {
   padding: 40px;
+  color: #722f37;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 blockquote {
@@ -19,7 +21,8 @@ h1 {
 
 h1,
 h3 {
-  font-family: ;
+    font-family: 'Parisienne', cursive;
+    font-weight: bolder;
 }
 
 h3 {
