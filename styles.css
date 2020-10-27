@@ -20,10 +20,16 @@ h3 {
 
 h3 {
   text-align: center;
+  font-stretch: condensed;
+  word-spacing: 6px;
 }
 
 blockquote {
   font-style: italic;
+}
+
+span {
+    text-decoration: line-through;
 }
 
 a:link,
