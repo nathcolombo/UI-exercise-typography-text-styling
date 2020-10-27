@@ -1,14 +1,30 @@
 /* css reset */
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    padding: 40px;
+  padding: 40px;
 }
 
 blockquote {
-    margin: 0 0 0 30px;
+  margin: 0 0 0 30px;
 }
 
+h1,
+h3 {
+  font-family: ;
+}
+
+h3 {
+  text-align: center;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+a:link {
+  text-decoration: none;
+}
