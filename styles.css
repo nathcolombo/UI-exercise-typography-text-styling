@@ -1,14 +1,56 @@
 /* css reset */
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    padding: 40px;
+  padding: 40px;
+  color: #722f37;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 blockquote {
-    margin: 0 0 0 30px;
+  margin: 0 0 0 30px;
+  text-align: center;
 }
 
+h1 {
+    font-size: xxx-large;
+}
+
+h1,
+h3 {
+    font-family: 'Parisienne', cursive;
+    font-weight: bolder;
+}
+
+h3 {
+  text-align: center;
+  font-stretch: condensed;
+  word-spacing: 6px;
+  font-size: 1.5rem;
+}
+
+blockquote {
+  font-style: italic;
+  line-height: 20px;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: aqua;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong {
+    font-weight: bold;
+    text-transform: uppercase;
