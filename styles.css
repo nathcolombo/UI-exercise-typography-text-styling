@@ -13,6 +13,10 @@ blockquote {
   text-align: center;
 }
 
+h1 {
+    font-size: xxx-large;
+}
+
 h1,
 h3 {
   font-family: ;
@@ -22,10 +26,12 @@ h3 {
   text-align: center;
   font-stretch: condensed;
   word-spacing: 6px;
+  font-size: 1.5rem;
 }
 
 blockquote {
   font-style: italic;
+  line-height: 20px;
 }
 
 span {
